@@ -1,0 +1,19 @@
+.container {
+    width: 600px;
+    margin: 0 auto;
+    position: relative;
+}
+canvas { width: 100%;}
+.Rain {
+    width: 600px;
+    margin: 0 auto;
+    position: relative;
+}
+canvas { width: 100%;}
+
+.pie {
+    width: 600px;
+    margin: 0 auto;
+    position: relative;
+}
+canvas { width: 100%;}
